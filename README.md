@@ -1,16 +1,16 @@
 # Bakery Transactions Analysis
-# Objectives: set business objectives, EDA, Hierarchical Clustering, K-means Clustering, Association Rules and recommendations.
+# Objectives: Insight customers' interest and give helpful recommendation.
 # Check dataset
 # EDA 
 ## Data Description
 ## Data Cleaning
 ## Statistical Summary
 ## Univariate analysis
-## Comparision items according to Daypart and Daytype
-## Correlation Matrix(Because they are categorical data)
+## Comparision analysis
+## Correlation Matrix
 # Data Preprocessing
-# Clustering
-## K-means
+# Clustering Analysis
+## K-means Clustering
 ## Hierarchical Clustering
 # Association Rules
 # Recommandations
